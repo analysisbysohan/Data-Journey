@@ -20,6 +20,8 @@ def floor_div(a, b):
     return a // b
 
 def factorial (n):
+    if n<0:
+        return "error , negative number is not allowed"
     if n ==0: 
      return 1
     else:
