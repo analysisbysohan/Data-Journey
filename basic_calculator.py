@@ -26,3 +26,12 @@ def factorial (n):
      return 1
     else:
         return n* factorial(n-1)
+
+def sum_of_digits(n):
+    """Calculates the sum of digits using pure math."""
+    n = abs(n)
+    total = 0
+    while n > 0:
+        total += n % 10  # Gets the last digit
+        n = n // 10      # Removes the last digit
+    return total
