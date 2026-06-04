@@ -10,22 +10,22 @@ def multi(a, b):
     return a * b
 
 def div(a, b):
-    if b == 0:
+    if b == 0 :
         return "Error: b = zero is not allowed"
     return a / b
 
 def floor_div(a, b):
-    if b == 0:
+    if b == 0 :
         return "Error: b = zero is not allowed"
     return a // b
 
 def factorial (n):
-    if n<0:
-        return "error , negative number is not allowed"
-    if n ==0: 
+    if n < 0 :
+        return "Error, Negative number is not Allowed"
+    if n == 0: 
      return 1
     else:
-        return n* factorial(n-1)
+        return n * factorial(n-1)
 
 def sum_of_digits(n):
     """Calculates the sum of digits using pure math."""
