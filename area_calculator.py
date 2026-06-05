@@ -15,5 +15,6 @@ def rectangle(l, b):
 def triangle(b, h):
     """Calculates the area of a triangle given its base and height."""
     return 0.5 * b * h 
+    
 def sphere(r)
     return 4 * 3.14 * r * r
