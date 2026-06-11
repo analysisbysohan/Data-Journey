@@ -27,6 +27,7 @@ def factorial (n):
     else:
         return n * factorial(n-1)
 
+
 def sum_of_digits(n):
     """Calculates the sum of digits using pure math."""
     n = abs(n)
