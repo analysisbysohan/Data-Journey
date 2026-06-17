@@ -15,3 +15,6 @@ Welcome to my data analytics learning repository! This project tracks my daily p
 
 ---
 *"The best way to predict the future is to create it."*
+
+### 🐍 Python Foundations
+* **`Python/simple_calculator.py`**: A functional terminal-based calculator demonstrating modular functions (`def`), user input type-casting, and conditional control flows (`if/elif/else`).
