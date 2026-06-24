@@ -18,3 +18,6 @@ Welcome to my data analytics learning repository! This project tracks my daily p
 
 ### 🐍 Python Foundations
 * **`Python/simple_calculator.py`**: A functional terminal-based calculator demonstrating modular functions (`def`), user input type-casting, and conditional control flows (`if/elif/else`).
+### 🐍 Python Core Programming
+
+* **conditionals.py**: A foundational script demonstrating user input handling, type casting (`int`), and conditional control flow (`if-else`) to compare two integers and output the maximum value.
