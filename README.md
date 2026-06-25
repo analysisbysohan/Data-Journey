@@ -13,6 +13,7 @@ Welcome to my data analytics learning repository! This project tracks my daily p
 * **Language:** Python 3.x
 * **Version Control:** Git & GitHub
 * **Next Up:** SQL (Structured Query Language) & Database Design
+* **`simple_interest.py`**: A financial calculation script that takes user inputs for Principal, Time, and Rate to compute and display Simple Interest using dynamic functions.
 
 ---
 *"The best way to predict the future is to create it."*
