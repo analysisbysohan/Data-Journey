@@ -14,6 +14,7 @@ Welcome to my data analytics learning repository! This project tracks my daily p
 * **Version Control:** Git & GitHub
 * **Next Up:** SQL (Structured Query Language) & Database Design
 * **`simple_interest.py`**: A financial calculation script that takes user inputs for Principal, Time, and Rate to compute and display Simple Interest using dynamic functions.
+* **`compound_interest.py`**: A financial script that calculates compound interest using the geometric `pow()` function, featuring user input handling and floating-point precision formatting.
 
 ---
 *"The best way to predict the future is to create it."*
