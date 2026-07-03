@@ -19,3 +19,5 @@ def triangle(b, h):
 def sphere(r)
         """Calculates the area of a circle given its radius."""
     return 4 * 3.14 * r * r
+
+#SUGGEST ME SOMETHING BETTER
