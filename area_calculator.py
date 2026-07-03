@@ -3,7 +3,6 @@
 def circle(r):
     """Calculates the area of a circle given its radius."""
     return 3.14 * r * r
-
 def square(s):
     """Calculates the area of a square given its side length."""
     return s * s
@@ -19,5 +18,8 @@ def triangle(b, h):
 def sphere(r)
         """Calculates the area of a circle given its radius."""
     return 4 * 3.14 * r * r
+def Cylinder(r,h)
+        """Calculates the area of a circle given its radius."""
+    return 2 * 3.14 * r * h + 2 * 3.14 * r *h
 
 #SUGGEST ME SOMETHING BETTER
