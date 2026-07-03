@@ -18,6 +18,7 @@ def triangle(b, h):
 def sphere(r)
         """Calculates the area of a sphere given its radius."""
     return 4 * 3.14 * r * r
+
 def Cylinder(r,h)
         """Calculates the area of a cylinder given its radius."""
     return 2 * 3.14 * r * h + 2 * 3.14 * r *h
