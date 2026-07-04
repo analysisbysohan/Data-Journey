@@ -15,7 +15,6 @@ Welcome to my data analytics learning repository! This project tracks my daily p
 * **Language:** Python 3.x
 * **Version Control:** Git & GitHub
 * **Next Up:** SQL (Structured Query Language) & Database Design
-* 
 ---
 *"The best way to predict the future is to create it."*
 
