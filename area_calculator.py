@@ -16,11 +16,11 @@ def triangle(b, h):
     return 0.5 * b * h 
     
 def sphere(r)
-        """Calculates the area of a sphere given its radius."""
+        """Calculates the area of a Sphere given its radius."""
     return 4 * 3.14 * r * r
 
 def Cylinder(r,h)
-        """Calculates the area of a Cylinder given its radius."""
+        """Calculates the area of a Cylinder given its radius AND HEIGHT."""
     return  2 * 3.14 * r* (r + h)
 
 
