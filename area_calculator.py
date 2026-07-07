@@ -20,7 +20,7 @@ def sphere(r)
     return 4 * 3.14 * r * r
 
 def Cylinder(r,h)
-        """Calculates the area of a Cylinder given its radius AND HEIGHT."""
+        """Calculates the area of a Cylinder given its radius and height."""
     return  2 * 3.14 * r* (r + h)
 
 
