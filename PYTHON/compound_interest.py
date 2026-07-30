@@ -9,3 +9,5 @@ CI = Amt - p
 
 # Displaying the result rounded to 2 decimal places
 print(f"Compound interest: {CI:.2f}")
+
+
