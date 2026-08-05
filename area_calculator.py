@@ -1,5 +1,4 @@
 # area_calculator.py 
-
 def circle(r):
     """Calculates the area of a circle given its radius."""
     return 3.14 * r * r
