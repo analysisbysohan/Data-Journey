@@ -35,4 +35,12 @@ def sum_of_digits(n):
         total += n % 10  # Gets the last digit
         n = n // 10      # Removes the last digit
     return total
-    
+
+
+
+
+
+
+
+
+
